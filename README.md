@@ -11,7 +11,7 @@ I am passionate about software and full-stack development. 🚀 Skilled in Java,
 Let's connect! 🌟
 
 *   🌍  I'm based in Edmonton, Alberta
-*   🖥️  See my portfolio at [Personal Portfolio](http://a)
+*   🖥️  See my portfolio at [Personal Portfolio]([http://a](https://portfolio-rohanjethwani17s-projects.vercel.app/))
 *   ✉️  You can contact me at [rohanjethwani17@gmail.com](mailto:rohanjethwani17@gmail.com)
 *   🤝  I'm open to collaborating on Software & Web development projects
   ### Socials
